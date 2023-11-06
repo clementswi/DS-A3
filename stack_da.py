@@ -5,7 +5,7 @@
 # Due Date: 11/6/23
 # Description: Stack implemented using the dynamic array from A2 as underlying storage
 
-from static_array import StaticArray
+from dynamic_array import *
 
 class StackException(Exception):
     """
